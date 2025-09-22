@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "shaonv",
-      "name": "小哥哥福利接口",
+      "name": "你懂的接口",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -391,7 +391,7 @@
   ],
   "lives": [
         {
-            "name": "小哥哥",
+            "name": "你懂的",
             "type": 0,
             "url": "https://12.qqwxx.cn/qianxian/ds/qianx70.json",
             "epg": ""
