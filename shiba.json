@@ -165,7 +165,7 @@
     },
     {
       "key": "dzzy",
-      "name": "微信搜索 小伟来了 公众号关注",
+      "name": "微信搜索-小伟来了公众号-关注-你懂的",
       "type": 1,
       "api": "http://www.qq.com",
       "searchable": 1,
@@ -391,9 +391,9 @@
   ],
   "lives": [
         {
-            "name": "你懂的",
+            "name": "小伟来了公众号",
             "type": 0,
-            "url": "https://12.qqwxx.cn/qianxian/ds/qianx70.json",
+            "url": "https://hub.gitmirror.com/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt",
             "epg": ""
         }
       ]
