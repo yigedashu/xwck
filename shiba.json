@@ -1,4 +1,4 @@
-{"spider":"https://www.jsonav.xyz/pg.jar",
+{"spider":"https://hub.gitmirror.com/https://github.com/yigedashu/xwck/raw/refs/heads/main/pg.jar",
   "sites": [
     {
       "key": "shaonv",
@@ -165,7 +165,7 @@
     },
     {
       "key": "dzzy",
-      "name": "微信搜索-小伟来了公众号-关注-你懂的",
+      "name": "微信搜索小伟来了公众号-关注-你懂的",
       "type": 1,
       "api": "http://www.qq.com",
       "searchable": 1,
