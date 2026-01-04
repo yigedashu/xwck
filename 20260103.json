@@ -27,98 +27,6 @@
             "ext": "./lib/水果派.json"
         },
         {
-            "key": "✨爱污传媒✨",
-            "name": "✨Aries|爱污传媒✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xbpq91.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/爱污传媒.json"
-        },
-        {
-            "key": "✨51短剧✨",
-            "name": "✨Aries|51短剧✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xbpq91.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/51短剧.json"
-        },
-        {
-            "key": "✨爱色吧✨",
-            "name": "✨Aries|爱色吧✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xbpq91.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/爱色吧.json"
-        },
-        {
-            "key": "✨91视频✨",
-            "name": "✨Aries|91视频✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xbpq91.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/91视频.json"
-        },
-        {
-            "key": "✨SAOO✨",
-            "name": "✨SAOO✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/SAOO.json",
-            "jar": "./lib/XBPQ.jar"
-        },
-        {
-            "key": "✨果冻破解版✨",
-            "name": "✨果冻✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/果冻.json",
-            "jar": "./lib/XBPQ.jar"
-        },
-        {
-            "key": "✨百草香✨\n",
-            "name": "✨百草✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/百草.json",
-            "jar": "./lib/XBPQ.jar"
-        },
-        {
-            "key": "✨风流视频✨\n",
-            "name": "✨风流✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/风流.json",
-            "jar": "./lib/XBPQ.jar"
-        },
-        {
             "key": "推特APP",
             "name": "✨Aries|推特APP✨",
             "type": 3,
@@ -142,18 +50,6 @@
             "ext": "./lib/精工厂.json"
         },
         {
-            "key": "国产麻豆",
-            "name": "✨Aries|国产麻豆✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/国产麻豆.json"
-        },
-        {
             "key": "文件夹",
             "name": "✨Aries|文件夹✨",
             "type": 3,
@@ -164,30 +60,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/文件夹.json"
-        },
-        {
-            "key": "四区",
-            "name": "✨Aries|四区✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/四区.json"
-        },
-        {
-            "key": "三区",
-            "name": "✨Aries|三区✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/三区.json"
         },
         {
             "key": "一区",
