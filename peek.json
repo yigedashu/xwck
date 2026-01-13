@@ -1,0 +1,161 @@
+{
+    "spider": "./lib/xyq.jar",
+    "logo": "./lib/base.jpg",
+    "wallpaper": "https://picsum.photos/1080/",
+    "sites": [
+        {
+            "key": "推特APP",
+            "name": "✨Aries|推特APP✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv323推特APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "好色™ Tv",
+            "name": "✨Aries|好色™ Tv.py✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1125好色™ Tv.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "lavAPP.py",
+            "name": "lavAPP.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1535lavAPP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "Phb.py",
+            "name": "Phb.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1561Phb.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "DSYS",
+            "name": "DSYS.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1587DSYS.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "51吸瓜动态版.py",
+            "name": "51吸瓜动态版.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv161351吸瓜动态版.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "Xvideos.py",
+            "name": "Xvideos.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1665Xvideos.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "Xhamster.py",
+            "name": "Xhamster.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1691Xhamster.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "4Kpy",
+            "name": "数逼毛",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv17174k.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "黑料",
+            "name": "黑料",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1743黑料.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "九个区.py",
+            "name": "九个区.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1769九个区.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "香蕉",
+            "name": "香蕉.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1795香蕉.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "小红薯APP.py",
+            "name": "小红薯APP.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1821小红薯APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "推特APP.py",
+            "name": "推特APP.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv1847推特APP.py",
+            "order_num": 5,
+            "ext": ""
+        }
+    ]
+}
