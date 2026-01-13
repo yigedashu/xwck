@@ -4,17 +4,6 @@
     "wallpaper": "https://picsum.photos/1080/",
     "sites": [
         {
-            "key": "推特APP",
-            "name": "✨Aries|推特APP✨",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./lib/apiv323推特APP.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
             "key": "好色™ Tv",
             "name": "✨Aries|好色™ Tv.py✨",
             "type": 3,
@@ -154,6 +143,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./lib/apiv1847推特APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "推特APP",
+            "name": "关注小伟来了公众号",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/apiv323推特APP.py",
             "order_num": 5,
             "ext": ""
         }
