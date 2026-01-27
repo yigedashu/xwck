@@ -1,0 +1,64 @@
+[
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "官方网站",
+                "url": "https://chigua.eu.org",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "使用说明",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/README.md",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "更新日志",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/CHANGELOG.md",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "本地包",
+                "url": "dongliTV",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "name": "蜂蜜影视",
+        "list": [
+            {
+                "name": "蜂蜜影视",
+                "url": "https://v6.gh-proxy.org//https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
+                "icon": "",
+                "version": "电视32位"
+            },
+            {
+                "name": "蜂蜜影视",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk",
+                "icon": "",
+                "version": "电视64位"
+            },
+            {
+                "name": "蜂蜜影视",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk",
+                "icon": "",
+                "version": "手机32位"
+            },
+            {
+                "name": "蜂蜜影视",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk",
+                "icon": "",
+                "version": "手机64位"
+            }
+        ]
+    }
+]

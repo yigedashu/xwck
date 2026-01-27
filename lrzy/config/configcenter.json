@@ -1,0 +1,299 @@
+[
+    {
+        "name": "通用",
+        "list": [
+            {
+                "name": "ABI",
+                "key": "abiSelection",
+                "icon": "",
+                "des": "手动选择ABI"
+            },
+            {
+                "name": "Go引擎",
+                "key": "mediaproxyProbe",
+                "icon": "",
+                "des": "Go引擎状态查看"
+            },
+            {
+                "name": "Go引擎",
+                "key": "mediaproxyDNS",
+                "icon": "",
+                "des": "Go引擎DNS设置"
+            },
+            {
+                "name": "盘搜",
+                "key": "pansouDomain",
+                "icon": "",
+                "des": "盘搜域名设置"
+            },
+            {
+                "name": "凯速",
+                "key": "loginOrlogooutKStore",
+                "icon": "",
+                "des": "登录｜退出"
+            },
+            {
+                "name": "Cookie",
+                "key": "backupCookieToKStore",
+                "icon": "",
+                "des": "备份到凯速"
+            },
+            {
+                "name": "Cookie",
+                "key": "downloadCookieToLocal",
+                "icon": "",
+                "des": "从凯速下载到本地"
+            }
+        ]
+    },
+    {
+        "name": "哔哩",
+        "list": [
+            {
+                "name": "退出登录",
+                "key": "cleanBilibiliCookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setBilibiliCookie",
+                "icon": "",
+                "des": "设置cookie"
+            }
+        ]
+    },
+    {
+        "name": "百度",
+        "list": [
+            {
+                "name": "注册",
+                "key": "baiduSignUp",
+                "icon": "",
+                "des": "🎉新用户注册保存送100G永久空间"
+            },
+            {
+                "name": "退出登录",
+                "key": "cleanBaiduCookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setBaiduCookie",
+                "icon": "",
+                "des": "设置cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "setBaiduMultiThread",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "手动清理",
+                "key": "cleanBaiduTempDir",
+                "icon": "",
+                "des": "手动清理tv_temp_saved目录全部文件"
+            },
+            {
+                "name": "自动清理",
+                "key": "baiduVideoCacheTime",
+                "icon": "",
+                "des": "设置自动清理tv_temp_saved目录文件缓存时间"
+            }
+        ]
+    },
+    {
+        "name": "夸氪",
+        "list": [
+            {
+                "name": "注册",
+                "key": "quarkSignUp",
+                "icon": "",
+                "des": "🎉新用户注册保存送1T永久空间"
+            },
+            {
+                "name": "退出登录",
+                "key": "cleanQuarkCookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setQuarkCookie",
+                "icon": "",
+                "des": "设置cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "setQuarkMultiThread",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "手动清理",
+                "key": "cleanQuarkTempDir",
+                "icon": "",
+                "des": "手动清理tv_temp_saved目录全部文件"
+            },
+            {
+                "name": "自动清理",
+                "key": "quarkVideoCacheTime",
+                "icon": "",
+                "des": "设置自动清理tv_temp_saved目录文件缓存时间"
+            }
+        ]
+    },
+    {
+        "name": "优囍",
+        "list": [
+            {
+                "name": "注册",
+                "key": "ucSignUp",
+                "icon": "",
+                "des": "🎉新用户注册保存送1T永久空间"
+            },
+            {
+                "name": "退出登录",
+                "key": "cleanUcCookie",
+                "icon": "",
+                "des": "清除Cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setUcCookie",
+                "icon": "",
+                "des": "设置Cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "setUcMultiThread",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "手动清理",
+                "key": "cleanUcTempDir",
+                "icon": "",
+                "des": "手动清理tv_temp_saved目录全部文件"
+            },
+            {
+                "name": "自动清理",
+                "key": "ucVideoCacheTime",
+                "icon": "",
+                "des": "设置自动清理tv_temp_saved目录文件缓存时间"
+            }
+        ]
+    },
+    {
+        "name": "阿里",
+        "list": [
+            {
+                "name": "退出登录",
+                "key": "cleanAliCookie",
+                "icon": "",
+                "des": "清除Cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setAliCookie",
+                "icon": "",
+                "des": "设置Cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "setAliMultiThread",
+                "icon": "",
+                "des": ""
+            },
+            {
+                "name": "手动清理",
+                "key": "cleanAliTempDir",
+                "icon": "",
+                "des": "手动清理tv_temp_saved目录全部文件"
+            },
+            {
+                "name": "自动清理",
+                "key": "aliVideoCacheTime",
+                "icon": "",
+                "des": "设置自动清理tv_temp_saved目录文件缓存时间"
+            }
+        ]
+    },
+    {
+        "name": "天懿",
+        "list": [
+            {
+                "name": "退出登录",
+                "key": "cleanTianyiCookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setTianyiCookie",
+                "icon": "",
+                "des": "设置Cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "setTianyiMultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "壹贰叁",
+        "list": [
+            {
+                "name": "退出登录",
+                "key": "clean123Cookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "清空保存",
+                "key": "clean123UserInfo",
+                "icon": "",
+                "des": "清除账号信息"
+            },
+            {
+                "name": "登录",
+                "key": "set123Cookie",
+                "icon": "",
+                "des": "设置Cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "set123MultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "数据库",
+        "list": [
+            {
+                "name": "本地数据库映射配置",
+                "key": "localDatabaseMapping",
+                "icon": "",
+                "des": "设置"
+            },
+            {
+                "name": "网络数据库映射配置",
+                "key": "networkDatabaseMapping",
+                "icon": "",
+                "des": "设置"
+            },
+            {
+                "name": "网络数据库",
+                "key": "networkDatabaseManagement",
+                "icon": "",
+                "des": "管理"
+            }
+        ]
+    }
+]

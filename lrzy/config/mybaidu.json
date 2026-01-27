@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "key": "dlfx",
+            "hide": false,
+            "name": "🔥热门推荐",
+            "shares": [
+                {
+                    "name": "体育健康",
+                    "remarks": "体育健康",
+                    "url": "https://pan.baidu.com/s/13JGvmZlFIqJblaDFRGthVQ?pwd=2026",
+                    "pwd": "2026"
+                },
+                 {
+                    "name": "剑来",
+                    "remarks": "含第一季",
+                    "url": "https://pan.baidu.com/s/1ohbEQ-1afBlUjODD16CtFw?pwd=5ve6",
+                    "pwd": "5ve6"
+                }
+                
+            ]
+        }
+    ]
+}
