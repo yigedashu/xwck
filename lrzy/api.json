@@ -1,8 +1,8 @@
 {
-    "logo": "./assets/logo2025121201.png",
+    "logo": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/assets/logo2025121201.png",
     "warningText": "小伟来了公众号，老人专用接口，禁止商用，仅限个人学习！",
     "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
-    "spider": "./jar/dongli-spider.jar",
+    "spider": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/jar/dongli-spider.jar",
     "sites": [
         {
             "key": "Douban",
@@ -52,7 +52,7 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./config/jianpian.json"
+            "ext": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/jianpian.json"
         },
         {
             "key": "Xb6v",
@@ -195,7 +195,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "./config/bilibili.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/bilibili.json",
                 "cookie": ""
             }
         },
@@ -208,7 +208,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blych.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/blych.json",
                 "cookie": ""
             },
             "style": {
@@ -225,7 +225,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blts.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/blts.json",
                 "cookie": ""
             },
             "style": {
@@ -242,7 +242,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blxs.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/blxs.json",
                 "cookie": ""
             },
             "style": {
@@ -259,7 +259,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blxp.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/blxp.json",
                 "cookie": ""
             },
             "style": {
@@ -276,7 +276,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "./config/blxq.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/blxq.json",
                 "cookie": ""
             },
             "style": {
@@ -293,7 +293,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/sejy.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/sejy.json",
                 "cookie": ""
             },
             "style": {
@@ -310,7 +310,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/xxkt.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/xxkt.json",
                 "cookie": ""
             },
             "style": {
@@ -327,7 +327,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/czkt.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/czkt.json",
                 "cookie": ""
             },
             "style": {
@@ -344,7 +344,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "./config/gzkt.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/gzkt.json",
                 "cookie": ""
             },
             "style": {
@@ -366,7 +366,7 @@
                 "ratio": 1.597
             },
             "ext": {
-                "json": "./config/blys.json",
+                "json": "https://raw.githubusercontent.com/yigedashu/xwck/main/lrzy/config/blys.json",
                 "cookie": ""
             }
         },
@@ -612,7 +612,7 @@
                 "ratio": 3.8
             },
             "gridview": "0-0-4.1"
-        },
+        }
     ],
     "lives": [
         {
