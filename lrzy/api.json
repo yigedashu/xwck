@@ -2,7 +2,7 @@
     "logo": "./assets/logo2025121201.png",
     "warningText": "小伟来了公众号，老人专用接口，禁止商用，仅限个人学习！",
     "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
-    "spider": "./lrzy/jar/dongli-spider.jar",
+    "spider": "./jar/dongli-spider.jar",
     "sites": [
         {
             "key": "Douban",
