@@ -547,55 +547,12 @@
             }
         },
         {
-            "key": "push_agent",
-            "name": "📢｜推送｜中心",
-            "type": 3,
-            "api": "csp_Push",
-            "hide": 1,
-            "searchable": 0,
-            "changeable": 0,
-            "timeout": 60
-        },
-        {
             "key": "本地文件",
             "name": "🐾｜本地｜文件",
             "type": 3,
             "searchable": 0,
             "changeable": 0,
             "api": "csp_Local"
-        },
-        {
-            "key": "localdb",
-            "name": "👣｜本地数据库",
-            "type": 3,
-            "api": "csp_LocalDB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "song_1a48b",
-            "name": "🎼｜网络数据库KTV",
-            "type": 3,
-            "api": "csp_KTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "networkdb",
-            "name": "💞｜网络数据库合集",
-            "type": 3,
-            "api": "csp_NetworkDB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": ""
         },
         {
             "key": "急救教学",
