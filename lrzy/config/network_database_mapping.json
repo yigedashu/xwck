@@ -1,13 +1,13 @@
 {
     "version": "4.0",
     "databases": {
-        "song_1a48b": {
+        "song_9c8ec": {
             "name": "🎵 KTV",
             "valid": 1,
             "hide": 1,
-            "size": 95191040,
-            "sha256": "1a48b4e3b78ee28cb878607f26637ffbb129fabddd45af8b8857ef9108468419",
-            "path": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/releases/download/databases-20251223/song_1a48b.db",
+            "size": 113975296,
+            "sha256": "9c8ec53492541b907f1a40b43acbb887b04565dc7d1d60617cfb6becf0a79b6f",
+            "path": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/releases/download/databases-20260130/song_9c8ec.db",
             "count_query": "SELECT COUNT(*) FROM song",
             "category_count_query": "SELECT type_id, COUNT(*) FROM song GROUP BY type_id",
             "categories_query": "SELECT id, name FROM song_type ORDER BY id",
@@ -38,7 +38,7 @@
             "hide": 0,
             "size": 1347584,
             "sha256": "b8b5ec0a290416464624ead7c5476fc0e0559898385777d8e1ef9d1fb5637d33",
-            "path": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/releases/download/databases-20251223/movie_b8b5e.db",
+            "path": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/releases/download/databases-20260130/movie_b8b5e.db",
             "count_query": "SELECT COUNT(*) FROM vod_unified_data",
             "category_count_query": "SELECT type_name, COUNT(*) FROM vod_unified_data GROUP BY type_name",
             "categories_query": "SELECT DISTINCT type_name, type_name FROM vod_unified_data WHERE type_name IS NOT NULL AND type_name != '' ORDER BY type_name",
@@ -72,7 +72,7 @@
             "hide": 0,
             "size": 663552,
             "sha256": "b4d4b5dc86e74bf2ff96a56f199e19f1d90ebbfff49c864833c421efa13e1db4",
-            "path": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/releases/download/databases-20251223/song_b4d4b.db",
+            "path": "https://v6.gh-proxy.org/https://github.com/chitue/dongliTV/releases/download/databases-20260130/song_b4d4b.db",
             "count_query": "SELECT COUNT(*) FROM songs",
             "category_count_query": "SELECT genre, COUNT(*) FROM songs GROUP BY genre",
             "categories_query": "SELECT DISTINCT genre, genre FROM songs WHERE genre IS NOT NULL AND genre != '' ORDER BY genre",

@@ -155,6 +155,13 @@
                 "des": "🎉新用户注册保存送1T永久空间"
             },
             {
+                "name": "1T永久空间",
+                "key": "ucFree1T",
+                "icon": "",
+                "des": "🎉免费1T永久空间限领1次"
+            },
+            
+            {
                 "name": "退出登录",
                 "key": "cleanUcCookie",
                 "icon": "",
