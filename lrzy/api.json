@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "📚｜豆瓣｜推荐",
+            "name": "小伟来了公众号",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
