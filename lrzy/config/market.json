@@ -60,5 +60,34 @@
                 "version": "手机64位"
             }
         ]
+    },
+    {
+        "name": "网盘资源",
+        "list": [
+            {
+                "name": "百度",
+                "url": "https://pan.baidu.com/s/13JGvmZlFIqJblaDFRGthVQ?pwd=2026",
+                "icon": "",
+                "version": "网盘资源"
+            },
+            {
+                "name": "夸克",
+                "url": "https://pan.quark.cn/s/514a56ac6d23",
+                "icon": "",
+                "version": "网盘资源"
+            },
+            {
+                "name": "UC",
+                "url": "https://drive.uc.cn/s/084710ec4dc04?public=1",
+                "icon": "",
+                "version": "网盘资源"
+            },
+            {
+                "name": "迅雷",
+                "url": "https://pan.xunlei.com/s/VOkvcQ2Pcn41Bh4gxAgyXggiA1?pwd=v5z7",
+                "icon": "",
+                "version": "网盘资源"
+            }
+        ]
     }
 ]
