@@ -1,19 +1,19 @@
 {
     "logo": "./assets/logo2025121201.png",
-    "warningText": "小伟来了公众号，老人儿童专用接口，禁止商用！",
+    "warningText": "小伟来了新家公众号，老人儿童专用接口，禁止商用！",
     "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
     "spider": "./jar/dongli-spider.jar",
     "sites": [
         {
             "key": "Douban",
-            "name": "小伟来了公众号",
+            "name": "关注新公众号",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "filterable": 1
         },
         {
-            "key": "金牌影视",
+            "key": "小伟来了新家",
             "name": "💥｜金牌｜影视",
             "type": 3,
             "api": "csp_Glod",
