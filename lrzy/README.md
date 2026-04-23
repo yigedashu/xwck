@@ -81,9 +81,14 @@
 5. 天翼云盘
 6. 123 网盘 (每月 10G 流量限制)
 
-### 📥 东篱影视专用资源下载
+### 📥 东篱影视专用资源下载 
 包含 APK 和本地包资源：
 
 * **UC 网盘**: [点击下载](https://drive.uc.cn/s/084710ec4dc04?public=1)
 * **夸克网盘**: [点击下载](https://pan.quark.cn/s/514a56ac6d23)
 * **百度网盘**: [点击下载](https://pan.baidu.com/s/13JGvmZlFIqJblaDFRGthVQ?pwd=2026) *(提取码: 2026)*
+* **迅雷网盘**: [点击下载](https://pan.xunlei.com/s/VOoL5NPJCrDfWdYq2l6S4s52A1?pwd=74bm)
+
+### 📖 详细使用说明
+
+* **详细说明**: [点击阅读](https://chigua.eu.org/docs/USAGE.md)

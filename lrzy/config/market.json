@@ -1,6 +1,6 @@
 [
     {
-        "name": "本地包",
+        "name": "接口信息",
         "list": [
             {
                 "name": "官方网站",
@@ -24,8 +24,15 @@
                 "version": ""
             },
             {
-                "name": "本地包",
-                "url": "dongliTV",
+                "name": "当前版本",
+                "url": "currentVersion",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "最新版本",
+                "url": "latestVersion",
                 "icon": "",
                 "copy": "",
                 "version": ""

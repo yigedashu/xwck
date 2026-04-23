@@ -47,24 +47,7 @@
         ]
     },
     {
-        "name": "哔哩",
-        "list": [
-            {
-                "name": "退出登录",
-                "key": "cleanBilibiliCookie",
-                "icon": "",
-                "des": "清除cookie"
-            },
-            {
-                "name": "登录",
-                "key": "setBilibiliCookie",
-                "icon": "",
-                "des": "设置cookie"
-            }
-        ]
-    },
-    {
-        "name": "百度",
+        "name": "百度网盘",
         "list": [
             {
                 "name": "注册",
@@ -105,7 +88,7 @@
         ]
     },
     {
-        "name": "夸氪",
+        "name": "夸克网盘",
         "list": [
             {
                 "name": "注册",
@@ -146,7 +129,7 @@
         ]
     },
     {
-        "name": "优囍",
+        "name": "UC网盘",
         "list": [
             {
                 "name": "注册",
@@ -160,18 +143,29 @@
                 "icon": "",
                 "des": "🎉免费1T永久空间限领1次"
             },
-            
             {
-                "name": "退出登录",
+                "name": "PC版登录",
+                "key": "setUcCookie",
+                "icon": "",
+                "des": "超级会员只需要登录PC版"
+            },
+            {
+                "name": "TV版登录",
+                "key": "setUcTvCookie",
+                "icon": "",
+                "des": "普通用户需要同时登录PC版和TV版"
+            },
+            {
+                "name": "PC版退出",
                 "key": "cleanUcCookie",
                 "icon": "",
                 "des": "清除Cookie"
             },
             {
-                "name": "登录",
-                "key": "setUcCookie",
+                "name": "TV版退出",
+                "key": "cleanUcTvCookie",
                 "icon": "",
-                "des": "设置Cookie"
+                "des": "清除Cookie"
             },
             {
                 "name": "多线程",
@@ -194,7 +188,30 @@
         ]
     },
     {
-        "name": "阿里",
+        "name": "迅雷云盘",
+        "list": [
+            {
+                "name": "退出登录",
+                "key": "cleanXunleiCookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setXunleiCookie",
+                "icon": "",
+                "des": "设置Cookie"
+            },
+            {
+                "name": "多线程",
+                "key": "setXunleiMultiThread",
+                "icon": "",
+                "des": ""
+            }
+        ]
+    },
+    {
+        "name": "阿里云盘",
         "list": [
             {
                 "name": "退出登录",
@@ -229,7 +246,7 @@
         ]
     },
     {
-        "name": "天懿",
+        "name": "天翼云盘",
         "list": [
             {
                 "name": "退出登录",
@@ -252,7 +269,7 @@
         ]
     },
     {
-        "name": "壹贰叁",
+        "name": "123云盘",
         "list": [
             {
                 "name": "退出登录",
@@ -281,7 +298,41 @@
         ]
     },
     {
-        "name": "数据库",
+        "name": "哔哩哔哩",
+        "list": [
+            {
+                "name": "退出登录",
+                "key": "cleanBilibiliCookie",
+                "icon": "",
+                "des": "清除cookie"
+            },
+            {
+                "name": "登录",
+                "key": "setBilibiliCookie",
+                "icon": "",
+                "des": "设置cookie"
+            }
+        ]
+    },
+    {
+        "name": "网络存储",
+        "list": [
+            {
+                "name": "配置",
+                "key": "nsConfig",
+                "icon": "",
+                "des": "指定配置文件"
+            },
+            {
+                "name": "多线程",
+                "key": "networkStorageMultiThread",
+                "icon": "",
+                "des": "网络存储多线程设置"
+            }
+        ]
+    },
+    {
+        "name": "SQLite数据库",
         "list": [
             {
                 "name": "本地数据库映射配置",
