@@ -1,7 +1,6 @@
 {
     "logo": "./assets/logo2025121201.png",
     "warningText": "百度贴吧-软件分享吧，老人儿童专用接口，禁止商用！",
-    "wallpaper": "https://tu.ltyuanfang.cn/api/fengjing.php",
     "spider": "./jar/dongli-spider.jar",
     "sites": [
         {
@@ -688,7 +687,7 @@
             "searchable": 0,
             "changeable": 0,
             "api": "csp_Local"
-        },
+        }
     ],
     "lives": [
         {
