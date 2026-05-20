@@ -1,21 +1,21 @@
 {
     "info": "百度贴吧-软件分享吧-欢迎你",
   "urls": [
-    { "url": "http://tvbox.王二小放牛娃.top", "name": "王小二" },
-    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
-    { "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿" },
-    { "url": "http://ok213.top/ok", "name": "OK佬" },
-    { "url": "http://肥猫.com", "name": "肥猫" },
+    { "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" },
+    { "url": "http://www.饭太硬.cc/tv", "name": "饭太硬" },
+    { "url": "http://fmys.top/fmys.json", "name": "驸马" },
+    { "url": "http://mytv6688.xyz/aowu/config.webp", "name": "喵呜" },
+    { "url": "http://肥猫.net/", "name": "肥猫" },
     { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟" },
     { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备" },
-    { "url": "https://9280.kstore.vip/newwex.json", "name": "王小二备" },
-    { "url": "http://ok213.top/tv", "name": "OK佬备" },
-    { "url": "http://fty.xxooo.cf/tv", "name": "饭太硬备" },
-    { "url": "https://9877.kstore.space/AnotherD/api.json", "name": "潇洒" },
+    { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小备" },
+    { "url": "https://proxy.api.030101.xyz/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟2" },
+    { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备" },
+    { "url": "https://9877.kstore.space/ONE/one.json", "name": "潇洒" },
     { "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json", "name": "青龙" },
-    { "url": "http://mpanso.me/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "小米" },
-    { "url": "http://www.mpanso.me/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "小米备" },
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米备" },
     { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的" },
-    { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的备" }
+    { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂备" }
   ]
 }
