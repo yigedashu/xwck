@@ -708,7 +708,7 @@
             "searchable": 0,
             "changeable": 0,
             "api": "csp_Local"
-        },
+        }
     ],
     "lives": [
         {
