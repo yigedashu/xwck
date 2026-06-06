@@ -1,6 +1,6 @@
 {
     "logo": "./assets/logo2025121201.png",
-    "warningText": "百度贴吧-软件分享吧，老人儿童专用接口，禁止商用！",
+    "warningText": "百度贴吧-软件分享吧，仅限个人学习爬虫原理使用，禁止商用！",
     "spider": "./jar/dongli-spider.jar",
     "sites": [
         {
@@ -140,28 +140,28 @@
         },
         {
             "key": "腾腾视频",
-            "name": "🎇｜腾腾｜解析",
+            "name": "腾腾｜解析",
             "type": 3,
             "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
             "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js"
         },
         {
             "key": "酷酷视频",
-            "name": "🎇｜酷酷｜解析",
+            "name": "酷酷｜解析",
             "type": 3,
             "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
             "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js"
         },
         {
             "key": "果果视频",
-            "name": "🎇｜果果｜解析",
+            "name": "果果｜解析",
             "type": 3,
             "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
             "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js"
         },
         {
             "key": "奇奇视频",
-            "name": "🎇｜奇奇｜解析",
+            "name": "奇奇｜解析",
             "type": 3,
             "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
             "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
@@ -186,44 +186,17 @@
             }
         },
         {
-            "key": "灵虎",
-            "name": "灵虎｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "https://bind.315999.xyz/89.txt",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025",
-                "version": "120"
-            }
-        },
-        {
-            "key": "缘梦",
-            "name": "缘梦｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://165.99.42.137:5432",
-                "dataKey": "1234567890987654",
-                "dataIv": "1234567890987654"
-            }
-        },
-        {
-            "key": "爱影",
-            "name": "影｜APP",
+            "key": "首发",
+            "name": "首发｜APP",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt",
-                "dataKey": "ada211sdfsff3261",
-                "dataIv": "ada211sdfsff3261",
+                "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+                "dataKey": "FTgP4Gq8zPiqbt7M",
+                "dataIv": "FTgP4Gq8zPiqbt7M",
                 "init": "initV122",
-                "search": "mineInfo",
                 "ua": "okhttp/3.10.0"
             }
         },
@@ -235,25 +208,10 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "url": "https://qj3.ggtvb.cc",
+                "url": "https://qj4.catbb.xyz",
                 "dataKey": "eecbio48dsq13kkk",
                 "dataIv": "eecbio48dsq13kkk",
                 "search": "searchList4",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "奇奇",
-            "name": "奇奇｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.221:8009",
-                "dataKey": "123456789abcdefg",
-                "dataIv": "123456789abcdefg",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
@@ -273,17 +231,70 @@
             }
         },
         {
-            "key": "优兔",
-            "name": "优兔｜APP",
+            "key": "蓝鹰",
+            "name": "蓝鹰｜APP",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-                "dataKey": "UrWKPnmQWJA8AQzd",
-                "dataIv": "UrWKPnmQWJA8AQzd",
+                "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "init": "initV120",
                 "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "猎豹",
+            "name": "猎豹｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://444421.xyz",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025"
+            }
+        },
+        {
+            "key": "映画",
+            "name": "映画｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://cms140.yhg.one",
+                "dataKey": "bM7iC9eA3oZ1nB7z",
+                "dataIv": "bM7iC9eA3oZ1nB7z"
+            }
+        },
+        {
+            "key": "王子",
+            "name": "王子｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://app.95112475.xyz",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "dataIv": "5a9w6x58dsq6z3a6"
+            }
+        },
+        {
+            "key": "茉莉",
+            "name": "茉莉｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+                "dataKey": "88689667dce61725",
+                "dataIv": "88689667dce61725"
             }
         },
         {
@@ -324,7 +335,7 @@
         },
         {
             "key": "xiqu",
-            "name": "戏曲┃大全",
+            "name": "戏曲｜大全",
             "type": 3,
             "api": "csp_Xiqu",
             "ext": ""
@@ -342,7 +353,7 @@
         },
         {
             "key": "蜻蜓FM",
-            "name": "蜻蜓┃广播",
+            "name": "蜻蜓｜广播",
             "type": 3,
             "api": "csp_QingTing",
             "ext": ""
@@ -563,7 +574,7 @@
         },
         {
             "key": "Jzb",
-            "name": "说球┃回放",
+            "name": "说球｜回放",
             "type": 3,
             "api": "csp_Jzb",
             "searchable": 0,
@@ -588,6 +599,16 @@
                 "type": "list"
             }
         },
+            {
+            "key": "瓜子体育",
+            "name": "瓜子｜体育",
+            "type": 3,
+            "api": "csp_GuaziTY",
+            "style": {
+                "type": "list"
+            }
+        },
+    
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "小贝｜儿歌",
@@ -668,7 +689,7 @@
         },
         {
             "key": "急救教学",
-            "name": "🚑｜急救｜教学",
+            "name": "急救｜教学",
             "type": 3,
             "api": "csp_FirstAid",
             "searchable": 0,
@@ -687,7 +708,7 @@
             "searchable": 0,
             "changeable": 0,
             "api": "csp_Local"
-        }
+        },
     ],
     "lives": [
         {
