@@ -2025,7 +2025,7 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
+            "jar": "./lib/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
